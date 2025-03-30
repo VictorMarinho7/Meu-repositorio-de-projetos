@@ -1,2 +1,2 @@
 # Projetos Web
- Repositório de projetos , exércicios, etc
+ Repositório de projetos Web , exércicios, etc
